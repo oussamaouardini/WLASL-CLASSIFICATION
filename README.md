@@ -16,7 +16,7 @@ WLASL is the largest video dataset for Word-Level American Sign Language (ASL) r
 
 The dataset used in this project is the "WLASL" dataset and it can be found [here](https://www.kaggle.com/datasets/risangbaskoro/wlasl-processed) on Kaggle
 
-Download the dataset and place it in data/ (in the same path as WLASL directory)
+Download the dataset and place it in data/ (if you place it in other location try to change data import location)
 
 
 
