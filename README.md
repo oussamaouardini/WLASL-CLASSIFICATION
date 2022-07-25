@@ -29,6 +29,5 @@ The conversion of `Computer` to Spoken Language.
 
 
 
-[https://user-images.githubusercontent.com/69314264/168775253-93a68a4c-8a22-4475-81f3-37393add6653.mp4](https://drive.google.com/file/d/1-PZdUJep_hwGMORyjcyAiHX0KtiLvufc/view?usp=sharing)
-
+https://user-images.githubusercontent.com/69314264/168775253-93a68a4c-8a22-4475-81f3-37393add6653.mp4
 
