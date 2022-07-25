@@ -27,6 +27,10 @@ The end results of the project looks like this.
 The conversion of `Computer` to Spoken Language.
 
 
-https://drive.google.com/file/d/1-PZdUJep_hwGMORyjcyAiHX0KtiLvufc/view?usp=sharing
+
+https://user-images.githubusercontent.com/51085405/180845555-41931ec7-21a9-4bfd-893a-2e129e55af6b.mp4
+
+
+
 
 
